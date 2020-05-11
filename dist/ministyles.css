@@ -53,6 +53,10 @@ button.pokeButton {
   text-align: center;
 }
 
+.modal-dialog {
+  font-variant: small-caps;
+}
+
 #pokeLogo {
   display: block;
   margin-top: 15%;
