@@ -59,10 +59,11 @@ button.pokeButton {
   position: static;
 }
 
+/*
 .modal-dialog {
   text-align: center;
   box-sizing: border-box;
-  background: #e31010;
+  background: #fff;
   color: #157cd1;
   padding: 35px;
   min-width: 35%;
@@ -74,6 +75,7 @@ button.pokeButton {
   margin-left: 25%;
   margin-top: 25px;
 }
+*/
 
 .pokePic {
   width: 70%;
