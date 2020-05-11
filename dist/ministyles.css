@@ -1,0 +1,81 @@
+body {
+  font-family: "Press Start 2P", regular, cursive;
+  background-color: #e31010;
+  color: #e3d027;
+  background-image: url(../img/background.jpg);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#navWrap {
+  margin-top: 5%;
+  position: fixed;
+}
+
+#pokeSearch {
+  margin-top: 5%;
+  width: 60%;
+}
+
+#topBack {
+  position: static;
+}
+
+#container {
+  width: 35vw;
+  display: block;
+  background-color: #a39f9e;
+  color: #e3d027;
+  border: 3px groove #157cd1;
+  border-radius: 10px;
+  text-align: center;
+  position: static;
+}
+
+.pokeList {
+  text-align: center;
+  font-size: 1.3vw;
+}
+
+button.pokeButton {
+  display: inline-block;
+  margin: 9px;
+  min-width: 75%;
+  height: 50px;
+  font-size: 150%;
+  font-variant: small-caps;
+  border: 2px solid #e31010;
+  border-radius: 5px;
+  background-color: #157cd1;
+  color: #e3d027;
+  text-align: center;
+}
+
+#pokeLogo {
+  display: block;
+  margin-top: 15%;
+  position: static;
+}
+
+.modal-dialog {
+  text-align: center;
+  box-sizing: border-box;
+  background: #e31010;
+  color: #157cd1;
+  padding: 35px;
+  min-width: 35%;
+  height: auto;
+  max-width: 45%;
+  border: 4px ridge #157cd1;
+  border-radius: 10px;
+  font-variant: small-caps;
+  margin-left: 25%;
+  margin-top: 25px;
+}
+
+.pokePic {
+  width: 70%;
+  padding: 0;
+}
