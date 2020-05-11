@@ -23,7 +23,7 @@ var pokemonRepository = (function() {
     addListItem: function(t) {
       var n = $(".pokeList"),
         e = $(
-          '<button type="button" class = "pokeButton btn btn-primary btn-lg button-class list-group-item text-center container-fluid" data-target="#pokeModal" data-toggle="modal">' +
+          '<button type="button" class = "pokeButton btn btn-primary btn-lg button-class list-group-item text-center" data-target="#pokeModal" data-toggle="modal">' +
             t.name +
             "</button>"
         ),
