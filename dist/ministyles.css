@@ -39,9 +39,10 @@ body {
   font-size: 1.3vw;
 }
 
-button.pokeButton {
+.pokeButton {
   display: inline-block;
   margin: 9px;
+  padding: 1px;
   min-width: 75%;
   height: 50px;
   font-size: 150%;
